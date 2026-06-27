@@ -1,5 +1,5 @@
 # DSA with C++
-📌 DSA with C++ (Apna College)
+📌 DSA with C++ 
 
 🚀 About This Repository
 This repository contains my Data Structures and Algorithms (DSA) learning journey using C++, following the playlist by Apna College.
@@ -14,8 +14,3 @@ Trees & Graphs
 Dynamic Programming
 Problem-solving practice
 
-🎥 Playlist Link
-👉 Watch the full playlist here:
-🔗 https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt
-
-![Playlist Pic](dsa.png)
